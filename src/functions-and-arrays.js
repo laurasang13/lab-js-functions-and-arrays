@@ -51,7 +51,7 @@ const numbers2 = [2, 6, 9, 10, 7, 4, 1, 9];
 
 function averageNumbers(numbers2) {
     if (numbers2.length === 0) {
-        return null;
+        return 0;
     }
     let sum = 0;
 
